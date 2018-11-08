@@ -13,7 +13,7 @@ ${SEARCH_TERM} =  red car
 *** Test Cases ***
 User can search for products
     [Documentation]  This is info about the test
-    [Tags]  Smoke  Product
+    [Tags]  Smoke  Search
     Amazon.Search for Products
 
 User must sign in to check out
